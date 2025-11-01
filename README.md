@@ -65,12 +65,13 @@ Plot ACF and PCF:
 ```
 plt.figure(figsize=(12, 5))
 plot_acf(data_ts, lags=50)
-plt.title('Autocorrelation Function (ACF) - Google Close Price')
+plt.title('Autocorrelation Function (ACF) - Gold Price')
 plt.show()
 plt.figure(figsize=(12, 5))
 plot_pacf(data_ts, lags=50)
-plt.title('Partial Autocorrelation Function (PACF) - Google Close Price')
+plt.title('Partial Autocorrelation Function (PACF) - Gold Price')
 plt.show()
+
 
 ```
 Split data:
