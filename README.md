@@ -115,10 +115,11 @@ Original Data:
 <img width="1063" height="705" alt="image" src="https://github.com/user-attachments/assets/e7bcd608-f77a-4b66-9db9-496520e7a170" />
 
 Autocorrelation:
-<img width="593" height="458" alt="image" src="https://github.com/user-attachments/assets/25c4dbf4-8119-421b-bb48-fab2334007a6" />
+<img width="580" height="457" alt="image" src="https://github.com/user-attachments/assets/fff7c3b5-cd8b-41ed-bea0-3c5c95e9b0a6" />
 
 Partial Autocorrelation:
-<img width="596" height="460" alt="image" src="https://github.com/user-attachments/assets/6fd6fc86-ccb2-413d-b885-ae9aa66e2d22" />
+<img width="585" height="455" alt="image" src="https://github.com/user-attachments/assets/5cd097f2-8bc4-4c4e-a038-9005cd14b7ee" />
+
 
 SARIMA Model:
 <img width="1005" height="566" alt="image" src="https://github.com/user-attachments/assets/1bb258d0-50f4-41e2-9764-acb465c406a1" />
