@@ -112,7 +112,7 @@ plt.show()
 ```
 ### OUTPUT:
 Original Data:
-<img width="1016" height="702" alt="image" src="https://github.com/user-attachments/assets/76df8c86-45d8-49ff-9f87-163888fb1b1a" />
+<img width="1063" height="705" alt="image" src="https://github.com/user-attachments/assets/e7bcd608-f77a-4b66-9db9-496520e7a170" />
 
 Autocorrelation:
 <img width="593" height="458" alt="image" src="https://github.com/user-attachments/assets/25c4dbf4-8119-421b-bb48-fab2334007a6" />
